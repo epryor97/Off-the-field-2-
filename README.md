@@ -1,5 +1,7 @@
 # Off-the-field-2-
-Legal and experience based advise for athletes and parents about sexual abuse in sports.
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://epryor97@github.md Legal and experience based advise for athletes and parents about sexual abuse in sports.
 <!DOCTYPE html>
 <html>
 <title><OFF THE FIELD LEGAL
