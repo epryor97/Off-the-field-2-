@@ -1,7 +1,5 @@
-# Off-the-field-2-
-# SITE CONFIGURATION
-baseurl: ""
-url: "https://epryor97@github.md Legal and experience based advise for athletes and parents about sexual abuse in sports.
+$ git clone https://github.com/<epryor97>/<Off the field legal 2>
+$ git push
 <!DOCTYPE html>
 <html>
 <title><OFF THE FIELD LEGAL
